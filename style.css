@@ -369,11 +369,11 @@ padding-top: 50px;
     margin-top: 80px;
 }
 .carousel-control-prev {
-    top: 190px !important;
+    top: 30px !important;
     left: 0 !important;
 }
 .carousel-control-next {
-    top: 190px !important;
+    top: 30px !important;
     right: 0 !important;
 }
 .child {
