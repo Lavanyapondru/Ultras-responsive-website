@@ -359,8 +359,8 @@ padding-top: 50px;
 .nav1 {
     padding-left: 0 !important;
 }
-.hamburg {
-    margin-right: px;
+.navbar-toggler {
+    margin-right: 30px;
 }
 .carouselbtn1 {
     margin-top: 80px;
