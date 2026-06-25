@@ -359,26 +359,36 @@ padding-top: 50px;
 .nav1 {
     padding-left: 0 !important;
 }
-.navbar-toggler {
+/* .navbar-toggler {
     margin-right: 30px;
-}
+} */
 .carouselbtn1 {
-    margin-top: 80px;
+    display: none;
+
 }
 .carouselbtn2 {
-    margin-top: 80px;
+    display: none;
+
 }
 .carousel-control-prev {
-    top: -150px !important;
-    left: 0 !important;
+    /* top: -150px !important;
+    left: 0 !important; */
+    display: none;
 }
 .carousel-control-next {
-    top: -150px !important;
-    right: 0 !important;
+    /* top: -150px !important;
+    right: 0 !important; */
+    display: none;
 }
 .child {
     padding-top: 10px !important;
     padding-bottom: 40px !important;
+}
+.cr1{
+    display: none;
+}
+.cr2{
+    display: none;
 }
 /* .carousel-inner {
     height: 800px !important;
